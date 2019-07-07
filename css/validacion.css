@@ -1,0 +1,15 @@
+
+
+.error-control {
+  border: 1px solid red;
+  
+}
+
+label.error {
+
+  color: red;
+  width: 300px;
+  font-size: 0.8em;
+  margin-top:  10px;
+  margin-bottom:  10px;
+}
